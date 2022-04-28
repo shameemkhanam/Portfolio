@@ -1,0 +1,43 @@
+body{
+  background: #ccc
+}
+
+#bg-img{
+  background: url('../images/mainimg.jpg' );
+  background-size: 100%;
+  background-repeat: no-repeat;
+  min-height: 500px;
+  
+}
+
+.navbar-nav{
+  float: right;
+}
+
+
+#about{
+  margin-top: -200px;
+}
+
+#about .fa{
+  color: black;
+}
+
+#about span{
+  padding:10px 20px 10px 20px ;
+}
+
+#about hr{
+  border-width: 9px;
+  margin-top: 6px;
+}
+
+#skills span{
+  padding: 10px 20px 10px 20px;
+
+}
+
+#skills hr{
+  border-width: 9px;
+  margin-top: 6px;
+}
